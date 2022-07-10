@@ -17,6 +17,8 @@ Create a simple Web page to link to your file’s URL
 
 
 
+
+
 Lab 2: Practicing Auto Scaling
 
 What you’ll achieve:
